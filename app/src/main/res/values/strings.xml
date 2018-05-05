@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My 8 Puzzle Game</string>
+    <string name="play">Play!</string>
+    <string name="Exit">Exit</string>
+    <string name="logo">Logo</string>
+    <string name="title">My 8 Puzzle Game</string>
+    <string name="Moves">Moves:</string>
+    <string name="Time">Time:</string>
+    <string name="MovesInit">0</string>
+</resources>
